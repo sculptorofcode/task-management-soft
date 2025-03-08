@@ -67,13 +67,13 @@ A robust Task Management application built with **Next.js**, **MongoDB**, and **
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sculptorofcode/task-management-app.git
+   git clone https://github.com/sculptorofcode/task-management-soft.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd task-management-app
+   cd task-management-soft
    ```
 
 3. Install dependencies:
@@ -146,7 +146,7 @@ Admin users have additional capabilities:
 🏗️ Project Structure
 
 ```
-task-management-app/
+task-management-soft/
 │
 ├── public/
 │   └── [Static files]
@@ -273,4 +273,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-For any questions or support, please [open an issue](https://github.com/sculptorofcode/task-management-app/issues) or contact the maintainers.
+For any questions or support, please [open an issue](https://github.com/sculptorofcode/task-management-soft/issues) or contact the maintainers.
